@@ -19,4 +19,4 @@ Vous pouvez me contacter par mail et toutes mes informations, incluant mon CV, s
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=riadghub&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sinbad&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Sinbad&label=Visiteurs&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
