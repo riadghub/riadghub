@@ -4,7 +4,7 @@ Développeur web junior, j'en apprend chaque jour que ce soit en autodidacte ou 
 
 J'utilise principalement le framework Symfony et les langages de PHP et Javascript.
 
-Vous pouvez me contacter par mail, toutes mes informations sont disponibles sur mon LinkedIn o/
+Vous pouvez me contacter par mail et toutes mes informations, incluant mon CV, sont disponibles sur mon LinkedIn.
 
 ## 🌐 Réseaux :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riad-e-33a802136/)
