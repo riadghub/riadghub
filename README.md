@@ -1,6 +1,9 @@
 ## 💬 À propos : 
 
 Développeur web junior, j'en apprend chaque jour que ce soit en autodidacte ou auprès de personnes de mon entourage.
+
+J'utilise principalement le framework Symfony et les langages de PHP et Javascript.
+
 ## 🌐 Réseaux sociaux :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riad-e-33a802136/) 
 [![](https://visitcount.itsvg.in/api?id=Sinbad&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
