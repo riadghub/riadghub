@@ -1,7 +1,8 @@
 ## 💬 À propos : 
 
+Développeur web junior, j'en apprend chaque jour que ce soit en autodidacte ou auprès de personnes de mon entourage.
 ## 🌐 Réseaux sociaux :
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/cl%C3%A9ment-ferreira-436944217/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riad-e-33a802136/) 
 [![](https://visitcount.itsvg.in/api?id=Sinbad&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 <!--
 **riadghub/riadghub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
