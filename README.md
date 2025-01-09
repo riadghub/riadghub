@@ -1,9 +1,5 @@
 ## 💬 À propos : 
 
-Développeur web junior, j'en apprend chaque jour que ce soit en autodidacte ou auprès de personnes de mon entourage.
-
-J'utilise principalement le framework Symfony et les langages de PHP et Javascript.
-
 Vous pouvez me contacter par mail et toutes mes informations, incluant mon CV, sont disponibles sur mon LinkedIn.
 
 ## 🌐 Réseaux :
