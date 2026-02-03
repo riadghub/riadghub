@@ -6,7 +6,7 @@ I’m currently learning how to build games (Minecraft mods, World of Warcraft A
 </br>
 <div style="display: flex; justify-content: center; flex-direction: column; align-items: center;">
   <div>🌍 Paris, France 🇫🇷 · 🎓 <a href="https://42.fr/en/homepage/">42Paris</a> · 👨‍💻 25 y/o</div>
-  <div>🎮 Building: World of Warcraft Add-ons, Minecraft mods & Roblox Experiences</div>
+  <div>🎮 Building: Participating in CTF AWS Hackaton, Webapps, World of Warcraft Add-ons, Minecraft mods & Roblox Experiences</div>
   <div>🧭 Exploring: AI · Cybersecurity · Game Dev</div>
 </div>
 
