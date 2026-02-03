@@ -1,12 +1,20 @@
-## 💬 À propos : 
+## 💬 About me : 
 
-Vous pouvez me contacter par mail et toutes mes informations, incluant mon CV, sont disponibles sur mon LinkedIn.
+Hello, I’m Riad — developer in Paris (42 Paris). I discovered programming at 16 in my last year of Highschool through the ISN option. Since 2018 I’ve been coding in Java mainly in uni but right now I'm building small projects while deepening my algorithmic thinking. <br>
+I’m currently learning how to build games (Minecraft mods, testing World of Warcraft Add-ons) with Codedex but also exploring AI and Cybersecurity through the Nvidia events and dev portal.
 
-## 🌐 Réseaux :
+</br>
+<div style="display: flex; justify-content: center; flex-direction: column; align-items: center;">
+  <div>🌍 Paris, France 🇫🇷 · 🎓 <a href="https://42.fr/en/homepage/">42Paris</a> · 👨‍💻 25 y/o</div>
+  <div>🎮 Building: World of Warcraft Add-ons & Minecraft mods</div>
+  <div>🧭 Exploring: AI · Cybersecurity · Game Dev</div>
+</div>
+
+## 🌐 Links :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riad-eeer-aalla-33a802136/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riad75xx@gmail.com)
 
-## 🛠️ Mes techs :
+## 🛠️ Stack :
 
 **42 Core** : <br><br>
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-064F67?style=for-the-badge&logo=cmake&logoColor=white)
