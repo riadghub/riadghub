@@ -1,3 +1,5 @@
+![MasterHead](./assets/banner.png)
+
 ## 💬 About me : 
 
 Hello, I’m Riad — developer in Paris (<b>42 Paris</b>). I discovered programming at 16 in my last year of Highschool through the ISN option. Since 2018 I’ve been coding in <b>Java</b> mainly in <b>uni</b> but right now I'm building small projects while deepening my <b>algorithmic thinking</b>. <br>
