@@ -1,12 +1,12 @@
 ## 💬 About me : 
 
 Hello, I’m Riad — developer in Paris (42 Paris). I discovered programming at 16 in my last year of Highschool through the ISN option. Since 2018 I’ve been coding in Java mainly in uni but right now I'm building small projects while deepening my algorithmic thinking. <br>
-I’m currently learning how to build games (Minecraft mods, testing World of Warcraft Add-ons) with Codedex but also exploring AI and Cybersecurity through the Nvidia events and dev portal.
+I’m currently learning how to build games (Minecraft mods, World of Warcraft Add-ons and Roblox Experiences) with Codedex but also exploring AI and Cybersecurity through the Nvidia events and dev portal.
 
 </br>
 <div style="display: flex; justify-content: center; flex-direction: column; align-items: center;">
   <div>🌍 Paris, France 🇫🇷 · 🎓 <a href="https://42.fr/en/homepage/">42Paris</a> · 👨‍💻 25 y/o</div>
-  <div>🎮 Building: World of Warcraft Add-ons & Minecraft mods</div>
+  <div>🎮 Building: World of Warcraft Add-ons, Minecraft mods & Roblox Experiences</div>
   <div>🧭 Exploring: AI · Cybersecurity · Game Dev</div>
 </div>
 
